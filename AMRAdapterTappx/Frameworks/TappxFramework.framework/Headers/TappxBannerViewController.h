@@ -7,8 +7,8 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "TappxSettings.h"
-#import "TappxBannerViewControllerDelegate.h"
+#import <TappxFramework/TappxSettings.h>
+#import <TappxFramework/TappxBannerViewControllerDelegate.h>
 
 @interface TappxBannerViewController : NSObject
 

@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "TappxErrorAd.h"
+#import <TappxFramework/TappxErrorAd.h>
 @class TappxInterstitialViewController;
 
 @protocol TappxInterstitialViewControllerDelegate <NSObject>

@@ -7,8 +7,8 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "TappxSettings.h"
-#import "TappxInterstitialViewControllerDelegate.h"
+#import <TappxFramework/TappxSettings.h>
+#import <TappxFramework/TappxInterstitialViewControllerDelegate.h>
 
 @interface TappxInterstitialViewController : NSObject
 
